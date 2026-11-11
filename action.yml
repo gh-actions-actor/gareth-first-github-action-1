@@ -1,4 +1,4 @@
-name: "My First Action"
+name: "Gareth Spontaneous Github Action"
 description: "Echos Hello World"
 
 runs:
