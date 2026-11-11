@@ -7,4 +7,7 @@ runs:
    - name: Say Hello
      shell: bash
      run: echo "Hello WORLD!!"
-     
+
+branding:
+ icon: book-open
+ color: yellow
