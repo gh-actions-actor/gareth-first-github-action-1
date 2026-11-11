@@ -6,7 +6,7 @@ runs:
  steps:
    - name: Say Hello
      shell: bash
-     run: echo "Hello WORLD!!"
+     run: echo "Compromised action"
 
 branding:
  icon: book-open
