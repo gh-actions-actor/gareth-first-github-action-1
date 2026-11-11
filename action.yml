@@ -6,7 +6,7 @@ runs:
  steps:
    - name: Say Hello
      shell: bash
-     run: echo "Compromised action"
+     run: echo "Compromised action from a branch"
 
 branding:
  icon: book-open
